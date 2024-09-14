@@ -2,7 +2,7 @@
 
 > This is a project that gives information about basic CSS elements
 
-![photo gallery](./app_screenshot.png)
+![photo gallery](app_screenshot.png)
 
 Additional description of the project and its features.
 
