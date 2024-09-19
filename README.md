@@ -1,4 +1,5 @@
-# FCC PHOTO GALLERY
+# FCC Photo Gallery
+
 > This is a project that gives information about basic CSS elements
 
 ![photo gallery](app_screenshot.png)
