@@ -21,7 +21,7 @@ Additional description of the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[deploy link](https://vercel.com/gbemisola19s-projects/07-photo-gallery)
 
 ### Development (Running locally)
 
